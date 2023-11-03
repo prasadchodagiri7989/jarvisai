@@ -1,3 +1,3 @@
 # jarvisai
 
-click https://chprasad1824-jarvisai.hf.space/
+click https://chprasad1824-jarvischat.hf.space
